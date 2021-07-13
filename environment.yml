@@ -1,0 +1,8 @@
+name: caged
+channels:
+  - conda-forge
+dependencies:
+  - glob
+  - ipywidgets
+  - matplotlib
+  - pandas
