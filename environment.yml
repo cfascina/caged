@@ -2,7 +2,11 @@ name: caged
 channels:
   - conda-forge
 dependencies:
-  - glob
-  - ipywidgets
-  - matplotlib
-  - pandas
+  - python
+  - pip
+  - pip:
+    - glob
+    - ipywidgets
+    - matplotlib
+    - pandas
+    - voila
