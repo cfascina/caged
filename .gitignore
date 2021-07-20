@@ -1,3 +1,8 @@
+# Notebook's Checkpoints
 .ipynb_checkpoints/
 
+# Compacted Files
 *.7z
+
+# Temporary XLS Files
+.~lock*
