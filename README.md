@@ -1,6 +1,5 @@
 # CAGED
 
-Launch: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cfascina/caged/master?urlpath=voila%2Frender%2Fmain.ipynb)
+This project collects employment information from [CAGED](http://pdet.mte.gov.br/novo-caged) available at [MTPS FTP server](ftp://ftp.mtps.gov.br/), treats it and generates CSV files that are used in a Google Data Studio dashboard.
 
-Data from: ftp.datasus.gov.br
-Path: /pdet/microdados/NOVO CAGED/Legado/Estabelecimentos/
+The purpose of this dashboard is to present hiring, dismissals and balance number by sector of activity for a specific city.
