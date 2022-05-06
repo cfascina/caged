@@ -2,6 +2,6 @@
 .ipynb_checkpoints/
 
 # TXT and CSV files
-inputs/*
+inputs/*.txt
 outputs/*
 !outputs/2022-03.csv
