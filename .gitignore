@@ -1,8 +1,7 @@
-# Notebook's Checkpoints
+# Jupyter Notebook
 .ipynb_checkpoints/
 
-# Compacted Files
-*.7z
-
-# Temporary XLS Files
-.~lock*
+# TXT and CSV files
+inputs/*
+outputs/*
+!outputs/2022-03.csv
